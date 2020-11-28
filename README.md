@@ -5,12 +5,6 @@
 [![devDependencies Status](https://david-dm.org/powerbelt/powerbelt/dev-status.svg)](https://david-dm.org/powerbelt/powerbelt?type=dev)
 [![Known Vulnerabilities](https://snyk.io/test/github/powerbelt/powerbelt/badge.svg)](https://snyk.io/test/github/powerbelt/powerbelt)    
 
-# Powerbelt
+# Kathy
 
-JavaScript utility library
-
-## Support
-
-If you find any other this software useful or just think that I'm a cool guy 😊, please feel free to buy me a cup of coffee. I appreciate the support!
-  
-<a href='https://ko-fi.com/Z8Z5CIP0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>   
+Math library
